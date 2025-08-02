@@ -16,7 +16,9 @@ This is a simple To-Do List application built with Python's Tkinter library. You
 3. Run `python todo.py` in your terminal.
 
 ## 📸 Screenshot
-*(You can add a screenshot of the app window here)*
+<img width="525" height="564" alt="image" src="https://github.com/user-attachments/assets/2065f465-79d9-4401-a0c7-5e338e07349d" />
+
+
 
 ## 🛠️ Built With
 - Python 3
